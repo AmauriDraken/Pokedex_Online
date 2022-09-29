@@ -5,7 +5,7 @@
 
 Projeto desenvolvido para adquirir conhecimento sobre os pokemons e se divertir entre amigos. Este site realiza consumo da API do pokedex do: pokeapi.co/
 
-[ 🔗 Clique aqui para acessar ]()
+[ 🔗 Clique aqui para acessar ](https://amauridraken.github.io/Pokedex_Online/)
 
 ## 👨‍💻 Tecnologias 
 
